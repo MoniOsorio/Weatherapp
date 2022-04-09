@@ -1,0 +1,120 @@
+header {
+  font-family: "Fjalla One", sans-serif;
+  position: fixed;
+  color: #fbbc04;
+  font-size: 46px;
+  background-color: transparent;
+  left: 3%;
+  top: 0;
+  right: 0;
+  z-index: 1030;
+}
+
+.content {
+  border: 1px solid;
+  padding: 15px 15px;
+  margin: 80px auto 5px;
+  max-width: 600px;
+  border-radius: 10;
+}
+.celsius-temperature {
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 1;
+}
+.units {
+  position: relative;
+  top: -28px;
+}
+.card {
+  padding: 15px;
+  margin: 20px auto;
+  max-width: 600px;
+  border-radius: 10;
+  border: solid;
+}
+.list-group {
+  background-color: #fbf4f9;
+  width: 60%;
+  text-align: center;
+  list-style-type: none;
+  padding: 0;
+  margin: 0 auto;
+
+  top: 15px;
+  bottom: 15px;
+  font-family: "Barlow Semi Condensed", sans-serif;
+  line-height: normal;
+  display: list-item;
+  border-bottom: 3px solid lightgray;
+}
+.days {
+  padding: 15px;
+  margin: 20px auto;
+  max-width: 600px;
+  border-radius: 10;
+}
+.day {
+  font-size: 32px;
+}
+days.list-group {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+}
+h5 {
+  font-family: "Fjalla One", sans-serif;
+  color: #fbbc04;
+}
+h5 {
+  font-family: "Fjalla One", sans-serif;
+  color: #fbbc04;
+}
+h5 {
+  font-family: "Fjalla One", sans-serif;
+  color: #fbbc04;
+}
+h6 {
+  font-size: 30px;
+  text-align: center;
+}
+li {
+  font-size: 16px;
+  font-weight: 100;
+  height: 20px;
+  color: slategrey;
+  list-style: none;
+}
+ul {
+  margin: 0 0 10px;
+  padding: 0;
+}
+img {
+  font-size: 64px;
+  line-height: 2;
+  display: inline;
+  margin: 0auto;
+
+  float: left;
+}
+a {
+  text-align: right;
+  position: relative;
+}
+footer {
+  text-align: center;
+  color: darkslateblue;
+  font-weight: bold;
+  margin: auto;
+  font-family: "Fjalla One", sans-serif;
+  font-size: 18px;
+}
+body {
+  background: radial-gradient(
+    328px at 2.9% 15%,
+    rgb(191, 224, 251) 0%,
+    rgb(232, 233, 251) 25.8%,
+    rgb(252, 239, 250) 50.8%,
+    rgb(234, 251, 251) 77.6%,
+    rgb(240, 251, 244) 100.7%
+  );
+}
